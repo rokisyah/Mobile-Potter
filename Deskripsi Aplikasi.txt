@@ -1,0 +1,11 @@
+Kelas : TI - 4A
+Anggota :
+1. Ainia Walida Royani (1541180080)
+2. Roki Syah Al Zarkasi (1541180168)
+
+Aplikasi ini bernama Potter (Photo Editor)
+Fitur :
+- dapat memilih filter untuk gambar
+- dapat melakukan pengaturan brightness, constraint, dan saturation
+- setelah selesai melakukan edit foto, foto dapat disimpan di gallery handphone
+

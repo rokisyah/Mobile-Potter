@@ -1,0 +1,144 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Potter\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from D:\Potter\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from D:\Potter\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from D:\Potter\app\src\main\AndroidManifest.xml:2:1-23:12
+MERGED from [com.karumi:dexter:4.1.0] C:\Users\Ainia\.gradle\caches\transforms-1\files-1.1\dexter-4.1.0.aar\141d702b577189957453e4996e3f483c\AndroidManifest.xml:17:1-33:12
+MERGED from [info.androidhive:imagefilters:1.0.7] C:\Users\Ainia\.gradle\caches\transforms-1\files-1.1\imagefilters-1.0.7.aar\32751e80b810404fff885382b2b65b44\AndroidManifest.xml:2:1-17:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\Ainia\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\81b623a776e1c79f6126b8d81fc18f81\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Ainia\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\040dbd718e8c43fbaf80cd8d43566b74\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Ainia\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\bcdc6a1348f5905d0a5bd532e77be759\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Ainia\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\4aedb3f1906a01676869fe4cf6752284\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Ainia\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\9cfd83542e955a9860f34b3cf7375908\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Ainia\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\dbaf3b5735203ba9db0f3d3baec226ce\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Ainia\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\5a469269294f707b66ffa332737c4577\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Ainia\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\78ccea5a3d07cc5ca4c023b1a370d881\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Ainia\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\02d2b7d156f0e4fa25900da047b1b11b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Ainia\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\dafb0a600184c75e3608c78e44af2541\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Ainia\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\cbf9478ef1af1228a4e56e24d8768d2c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Ainia\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\6713f7e857c956e3fd1a05732598210c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Ainia\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\77c7b0d79ccc0c3868d39fe3f8f27cbb\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Ainia\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\88f5245c45863e48c3b72422bc5ee84e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Ainia\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\81b0cb20995dab61e246b589acdb1097\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Ainia\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\7ee6e1c1dbe602a13940a711a355a247\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Ainia\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\7f90334d941d8a25385e3926efd89721\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\Potter\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from D:\Potter\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from D:\Potter\app\src\main\AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from D:\Potter\app\src\main\AndroidManifest.xml:3:5-34
+		INJECTED from D:\Potter\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Potter\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Potter\app\src\main\AndroidManifest.xml
+		ADDED from D:\Potter\app\src\main\AndroidManifest.xml:2:1-23:12
+		INJECTED from D:\Potter\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Potter\app\src\main\AndroidManifest.xml
+		ADDED from D:\Potter\app\src\main\AndroidManifest.xml:2:1-23:12
+		INJECTED from D:\Potter\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Potter\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\Potter\app\src\main\AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from D:\Potter\app\src\main\AndroidManifest.xml:5:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\Potter\app\src\main\AndroidManifest.xml:6:5-80
+	android:name
+		ADDED from D:\Potter\app\src\main\AndroidManifest.xml:6:22-78
+application
+ADDED from D:\Potter\app\src\main\AndroidManifest.xml:7:5-21:19
+MERGED from [com.karumi:dexter:4.1.0] C:\Users\Ainia\.gradle\caches\transforms-1\files-1.1\dexter-4.1.0.aar\141d702b577189957453e4996e3f483c\AndroidManifest.xml:26:5-31:19
+MERGED from [com.karumi:dexter:4.1.0] C:\Users\Ainia\.gradle\caches\transforms-1\files-1.1\dexter-4.1.0.aar\141d702b577189957453e4996e3f483c\AndroidManifest.xml:26:5-31:19
+MERGED from [info.androidhive:imagefilters:1.0.7] C:\Users\Ainia\.gradle\caches\transforms-1\files-1.1\imagefilters-1.0.7.aar\32751e80b810404fff885382b2b65b44\AndroidManifest.xml:11:5-15:19
+MERGED from [info.androidhive:imagefilters:1.0.7] C:\Users\Ainia\.gradle\caches\transforms-1\files-1.1\imagefilters-1.0.7.aar\32751e80b810404fff885382b2b65b44\AndroidManifest.xml:11:5-15:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Ainia\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\bcdc6a1348f5905d0a5bd532e77be759\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Ainia\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\bcdc6a1348f5905d0a5bd532e77be759\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from D:\Potter\app\src\main\AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from D:\Potter\app\src\main\AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from D:\Potter\app\src\main\AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from D:\Potter\app\src\main\AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from D:\Potter\app\src\main\AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from D:\Potter\app\src\main\AndroidManifest.xml:13:9-40
+activity#walida.ainia.potter.MainActivity
+ADDED from D:\Potter\app\src\main\AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from D:\Potter\app\src\main\AndroidManifest.xml:14:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Potter\app\src\main\AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from D:\Potter\app\src\main\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from D:\Potter\app\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Potter\app\src\main\AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from D:\Potter\app\src\main\AndroidManifest.xml:18:27-74
+uses-sdk
+INJECTED from D:\Potter\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Potter\app\src\main\AndroidManifest.xml
+INJECTED from D:\Potter\app\src\main\AndroidManifest.xml
+MERGED from [com.karumi:dexter:4.1.0] C:\Users\Ainia\.gradle\caches\transforms-1\files-1.1\dexter-4.1.0.aar\141d702b577189957453e4996e3f483c\AndroidManifest.xml:22:5-24:41
+MERGED from [com.karumi:dexter:4.1.0] C:\Users\Ainia\.gradle\caches\transforms-1\files-1.1\dexter-4.1.0.aar\141d702b577189957453e4996e3f483c\AndroidManifest.xml:22:5-24:41
+MERGED from [info.androidhive:imagefilters:1.0.7] C:\Users\Ainia\.gradle\caches\transforms-1\files-1.1\imagefilters-1.0.7.aar\32751e80b810404fff885382b2b65b44\AndroidManifest.xml:7:5-9:41
+MERGED from [info.androidhive:imagefilters:1.0.7] C:\Users\Ainia\.gradle\caches\transforms-1\files-1.1\imagefilters-1.0.7.aar\32751e80b810404fff885382b2b65b44\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:27.1.1] C:\Users\Ainia\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\81b623a776e1c79f6126b8d81fc18f81\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\Ainia\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\81b623a776e1c79f6126b8d81fc18f81\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Ainia\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\040dbd718e8c43fbaf80cd8d43566b74\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Ainia\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\040dbd718e8c43fbaf80cd8d43566b74\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Ainia\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\bcdc6a1348f5905d0a5bd532e77be759\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Ainia\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\bcdc6a1348f5905d0a5bd532e77be759\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Ainia\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\4aedb3f1906a01676869fe4cf6752284\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Ainia\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\4aedb3f1906a01676869fe4cf6752284\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Ainia\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\9cfd83542e955a9860f34b3cf7375908\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Ainia\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\9cfd83542e955a9860f34b3cf7375908\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Ainia\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\dbaf3b5735203ba9db0f3d3baec226ce\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Ainia\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\dbaf3b5735203ba9db0f3d3baec226ce\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Ainia\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\5a469269294f707b66ffa332737c4577\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Ainia\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\5a469269294f707b66ffa332737c4577\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Ainia\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\78ccea5a3d07cc5ca4c023b1a370d881\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Ainia\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\78ccea5a3d07cc5ca4c023b1a370d881\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Ainia\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\02d2b7d156f0e4fa25900da047b1b11b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Ainia\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\02d2b7d156f0e4fa25900da047b1b11b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Ainia\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\dafb0a600184c75e3608c78e44af2541\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Ainia\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\dafb0a600184c75e3608c78e44af2541\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Ainia\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\cbf9478ef1af1228a4e56e24d8768d2c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Ainia\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\cbf9478ef1af1228a4e56e24d8768d2c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Ainia\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\6713f7e857c956e3fd1a05732598210c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Ainia\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\6713f7e857c956e3fd1a05732598210c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Ainia\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\77c7b0d79ccc0c3868d39fe3f8f27cbb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Ainia\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\77c7b0d79ccc0c3868d39fe3f8f27cbb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Ainia\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\88f5245c45863e48c3b72422bc5ee84e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Ainia\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\88f5245c45863e48c3b72422bc5ee84e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Ainia\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\81b0cb20995dab61e246b589acdb1097\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Ainia\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\81b0cb20995dab61e246b589acdb1097\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Ainia\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\7ee6e1c1dbe602a13940a711a355a247\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Ainia\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\7ee6e1c1dbe602a13940a711a355a247\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Ainia\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\7f90334d941d8a25385e3926efd89721\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Ainia\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\7f90334d941d8a25385e3926efd89721\AndroidManifest.xml:20:5-44
+INJECTED from D:\Potter\app\src\main\AndroidManifest.xml
+INJECTED from D:\Potter\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Potter\app\src\main\AndroidManifest.xml
+		ADDED from D:\Potter\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Potter\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Potter\app\src\main\AndroidManifest.xml
+		ADDED from D:\Potter\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Potter\app\src\main\AndroidManifest.xml
+activity#com.karumi.dexter.DexterActivity
+ADDED from [com.karumi:dexter:4.1.0] C:\Users\Ainia\.gradle\caches\transforms-1\files-1.1\dexter-4.1.0.aar\141d702b577189957453e4996e3f483c\AndroidManifest.xml:27:9-30:56
+	android:launchMode
+		ADDED from [com.karumi:dexter:4.1.0] C:\Users\Ainia\.gradle\caches\transforms-1\files-1.1\dexter-4.1.0.aar\141d702b577189957453e4996e3f483c\AndroidManifest.xml:29:13-48
+	android:theme
+		ADDED from [com.karumi:dexter:4.1.0] C:\Users\Ainia\.gradle\caches\transforms-1\files-1.1\dexter-4.1.0.aar\141d702b577189957453e4996e3f483c\AndroidManifest.xml:30:13-53
+	android:name
+		ADDED from [com.karumi:dexter:4.1.0] C:\Users\Ainia\.gradle\caches\transforms-1\files-1.1\dexter-4.1.0.aar\141d702b577189957453e4996e3f483c\AndroidManifest.xml:28:13-60
